@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 - 💻 I am a **Full Stack MERN Developer**
-- 🌱 Currently improving **Backend & System Design**
+- 🌱 Currently improving **Frontend,Backend & System Design**
 - 🎯 Goal: Become a **Mern Stack Developer**
 
 ---
@@ -31,3 +31,7 @@
 - VS Code
 
 ---
+
+## 📫 Connect With Me
+- 💼 GitHub: https://github.com/Dipanshu-Maurya
+- 📧 Email: dipanshumaurya2005@gmail.com
