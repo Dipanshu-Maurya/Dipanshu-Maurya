@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Dipanshu Maurya</h1>
+<h3 align="center">Full Stack MERN Developer | Node.js | React | MongoDB</h3>
 
-<!--
-**Dipanshu-Maurya/Dipanshu-Maurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 I am a **Full Stack MERN Developer**
+- 🌱 Currently improving **Backend & System Design**
+- 🎯 Goal: Become a **Mern Stack Developer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+### Frontend
+- HTML, CSS, JavaScript
+- React.js
+- Bootstrap / Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+- JWT Authentication
+
+### Database
+- MongoDB
+- Mongoose
+
+### Tools
+- Git & GitHub
+- VS Code
+
+---
