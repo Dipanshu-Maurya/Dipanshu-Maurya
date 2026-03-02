@@ -5,7 +5,7 @@
 
 ##  About Me
 -  I am a **Full Stack MERN Developer**
--  Currently improving **Frontend,Backend & System Design**
+-  Currently improving **Frontend & Backend**
 -  Goal: Become a **Mern Stack Developer**
 
 ---
