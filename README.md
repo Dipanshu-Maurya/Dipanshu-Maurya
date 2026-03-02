@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Dipanshu Maurya</h1>
+<h1 align="center">Hi, I'm Dipanshu Maurya</h1>
 <h3 align="center">Full Stack MERN Developer | Node.js | React | MongoDB</h3>
 
 ---
 
-## 🚀 About Me
-- 💻 I am a **Full Stack MERN Developer**
-- 🌱 Currently improving **Frontend,Backend & System Design**
-- 🎯 Goal: Become a **Mern Stack Developer**
+##  About Me
+-  I am a **Full Stack MERN Developer**
+-  Currently improving **Frontend,Backend & System Design**
+-  Goal: Become a **Mern Stack Developer**
 
 ---
 
@@ -32,6 +32,6 @@
 
 ---
 
-## 📫 Connect With Me
-- 💼 GitHub: https://github.com/Dipanshu-Maurya
-- 📧 Email: dipanshumaurya2005@gmail.com
+##  Connect With Me
+-  GitHub: https://github.com/Dipanshu-Maurya
+-  Email: dipanshumaurya2005@gmail.com
